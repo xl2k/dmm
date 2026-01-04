@@ -1,3 +1,4 @@
+```mermaid
 graph TD;
     subgraph Configuration
         A[Source Repo Config]
@@ -36,3 +37,4 @@ graph TD;
     style C_Repo fill:#dbf,stroke:#333,stroke-width:2px;
     style H_SP fill:#cff,stroke:#333,stroke-width:2px;
     style I_Doc fill:#dbf,stroke:#333,stroke-width:2px;
+```
